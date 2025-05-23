@@ -11,7 +11,6 @@
 *.sln.docstates
 myenv
 venv
-.env
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
@@ -383,7 +382,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -436,3 +434,4 @@ static/.DS_Store
 
 \#README.md\#
 myenv/
+config.bat
